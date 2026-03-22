@@ -4,7 +4,7 @@
 
 I'm a creative developer passionate about building games and interactive apps.  
 I love working with **Vue.js** for sleek, modern web apps.
-I also use Garuda Linux with Kate editor and Catpuccin
+I also use Arch Linux with Kate editor and Catppuccin
 
 ---
 
